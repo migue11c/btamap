@@ -1,5 +1,7 @@
 #include <stdio.h>
+#include "zlib.h"
 
 void main() {
-	return 0;
+	printf("Hello World!");
+	return;
 }
